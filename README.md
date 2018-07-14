@@ -1,4 +1,4 @@
-# React-Static - Styled-Components Example
+# React-Static - Wordpress Integration
 
 Installation intructions:
 
